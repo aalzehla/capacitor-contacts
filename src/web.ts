@@ -7,10 +7,7 @@ export class CapacitorContactsWeb
   implements CapacitorContactsPlugin
 {
   constructor() {
-    super({
-        name: 'CapacitorContacts',
-        platforms: ['web']
-    });
+    super();
   }
   async close() {}
 }
