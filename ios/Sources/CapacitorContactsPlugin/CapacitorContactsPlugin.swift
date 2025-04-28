@@ -161,6 +161,8 @@ class Permissions {
                     }
                 }
             }
+        case .limited:
+          completionHandler(true)
         }
     }
 }

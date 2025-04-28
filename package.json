@@ -1,6 +1,6 @@
 {
   "name": "@aalzehla/capacitor-contacts",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This capacitor plugin allows you to use the native contact picker UI on Android or iOS for single contact selection. Both platforms will return the same payload structure, where the data exists.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
